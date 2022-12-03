@@ -15,7 +15,7 @@ public class shop {
     float no_of_things;
     void display_shop()
     {
-        System.out.println("The of shop is "+shop_name);
+        System.out.println("The shop is "+shop_name+" the owner_name is "+owner_name+" the no of shops is "+no_of_shops+" and the no of things is "+no_of_things);
 
         
     }

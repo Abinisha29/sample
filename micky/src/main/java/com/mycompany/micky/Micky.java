@@ -15,9 +15,9 @@ public class Micky {
         minnie micky=new minnie();
         micky.printScore();
         micky.printScore(150);
-    }
+    
    
-    {
+    
         litty abi=new litty();
         abi.printScore();
         abi.printScore(75);

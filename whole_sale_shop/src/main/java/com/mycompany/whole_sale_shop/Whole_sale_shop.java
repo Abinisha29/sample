@@ -12,7 +12,7 @@ package com.mycompany.whole_sale_shop;
 public class Whole_sale_shop {
 
     public static void main(String[] args) {
-        margin_free ibacco=new margin_free();
+        margin_free ibacco=new margin_free(2100);
        ibacco.addMoney(10);
                ibacco.addMoney(10);
                ibacco.addMoney(500);

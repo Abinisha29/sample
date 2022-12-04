@@ -10,6 +10,11 @@ package com.mycompany.whole_sale_shop;
  */
 public class margin_free {
     private int money;
+    
+    public margin_free(int initialMoney){
+    money=initialMoney;
+    }
+            
     public void addMoney(int money){
         this.money +=money;
     }

@@ -13,7 +13,7 @@ public class Stringreverse {
 
     public static void main(String[] args) {
         String word="MADAM";
-        String word2=" ";
+        String word2="";
                 for(int i=word.length()-1;i>=0;i--)
                 {
                     System.out.println(word.charAt(i));
